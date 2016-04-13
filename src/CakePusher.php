@@ -1,4 +1,5 @@
 <?php
+namespace CakePusher;
 /**
  * Package: MMandBStudio/CakePusher
  * Version 0.1
